@@ -1,16 +1,40 @@
-### Hi there 👋
+# 👋 Hi, I'm Irianala 
 
-<!--
-**Irianala/Irianala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Passionate Backend Developer  
+I specialize in creating robust, scalable backend solutions using **Java**, **C#**, and **C++**. I thrive on solving complex problems and enjoy building **reusable, efficient solutions** that can stand the test of time.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack  
+- **Languages**: Java, C#, C++  
+- **Frameworks**: Spring Boot, ASP.NET Core, Boost  
+- **Tools**: Docker, Kubernetes, Jenkins, Git  
+- **Databases**: PostgreSQL, MySQL, Redis  
+- **Messaging**: Kafka, MQ  
+- **Cloud Platforms**: AWS, Azure  
+
+---
+
+### 🌱 Currently Exploring  
+- Advanced **C++** for real-time systems  
+- Fintech solutions and low-latency applications  
+- Ethical hacking and cybersecurity practices  
+
+---
+
+### 🏆 My Core Principles  
+- **Simplicity & Reusability**: Crafting solutions that are modular and maintainable  
+- **Problem Solving**: Breaking down challenges into elegant, efficient code  
+- **Continuous Learning**: Always striving to improve my skills  
+
+---
+
+### 📫 Let's Connect!  
+Feel free to reach out for collaboration or just to chat about code!  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/natolotriniavo/)
+- 📧 [Email](mailto:natolotra.randriamanantsoavina@gmail.com)  
+
+---
+
+_"Ikigai"_  
